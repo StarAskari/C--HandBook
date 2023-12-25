@@ -1,4 +1,7 @@
 # C--HandBook
+this code is written in c#-Asp.net
+This is the sample code when you want to upload more than one file in batch without pushing the download button many time
+enjoy it!:)
 
 
         public ActionResult PrintGrp(InputPrintGrpModel data)
